@@ -1,0 +1,21 @@
+{
+  "name": "hw-friendfinder",
+  "version": "1.0.0",
+  "description": "Discover new friends with this compatability app!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Friend",
+    "Finder"
+  ],
+  "author": "Erik Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
